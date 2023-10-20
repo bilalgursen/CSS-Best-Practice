@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 10rem;
+    background-color: aliceblue;
+}
+
+.logo{
+justify-content: center
+}
+
+.item{
+    color: black;
+}
+
+.items{
+
+}
