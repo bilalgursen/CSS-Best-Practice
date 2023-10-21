@@ -9,7 +9,7 @@ export default function Header() {
       <nav className={styles.nav}>
         <Image className={styles.logo} src={logo} priority />
         <div className={styles.items}>
-        <Link href="#" className={styles.item}>Link 1</Link>
+        <Link href="/Header-Example" className={styles.item}>Head Example Page</Link>
         <Link href="#" className={styles.item}>Link 2</Link>
         <Link href="#" className={styles.item}>Link 3</Link>
         </div>

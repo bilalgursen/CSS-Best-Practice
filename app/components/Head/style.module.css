@@ -1,13 +1,14 @@
 .nav{
     display: flex;
     align-items: center;
-    justify-content: space-between;
     min-height: 10rem;
     background-color: aliceblue;
+    justify-content: flex-end;
 }
 
 .logo{
-justify-content: center
+    flex-basis: 50%;
+    background-color: aqua;
 }
 
 .item{
@@ -15,5 +16,6 @@ justify-content: center
 }
 
 .items{
-
+    flex-basis: 50%;
+    background-color: rgb(255, 214, 214);
 }
